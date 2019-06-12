@@ -3,7 +3,7 @@ Simple 3-tier app example deployed to AWS using Terraform.
 
 # Requirements
 - Terraform >= `0.11.1`
-- `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` environment variables exported.
+- `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` environment variables exported. or configure AWS CLI using `aws configure`
 
 # Usage
 Clone this repository and run:
